@@ -1,0 +1,7 @@
+US East (N. Virginia) us-east-1
+
+AMAZON machine Image = ami-066784287e358dad1
+Instance type = t2.micro
+VPC = vpc-02d9d490a107f662c
+
+security gropu
